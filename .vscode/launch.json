@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch reto8",
+            "request": "launch",
+            "mainClass": "reto8",
+            "projectName": "Retos_70c50c29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto3",
+            "request": "launch",
+            "mainClass": "Reto3",
+            "projectName": "Retos_70c50c29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto1",
+            "request": "launch",
+            "mainClass": "Reto1",
+            "projectName": "Retos_70c50c29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto5",
+            "request": "launch",
+            "mainClass": "Reto5",
+            "projectName": "Retos_70c50c29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto6",
+            "request": "launch",
+            "mainClass": "Reto6",
+            "projectName": "Retos_70c50c29"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto8",
+            "request": "launch",
+            "mainClass": "reto8",
+            "projectName": "Retos_e8e04f4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto7",
+            "request": "launch",
+            "mainClass": "reto7",
+            "projectName": "Retos_e8e04f4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto6",
+            "request": "launch",
+            "mainClass": "reto6",
+            "projectName": "Retos_e8e04f4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto5",
+            "request": "launch",
+            "mainClass": "reto5",
+            "projectName": "Retos_e8e04f4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto3",
+            "request": "launch",
+            "mainClass": "reto3",
+            "projectName": "Retos_e8e04f4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto6",
+            "request": "launch",
+            "mainClass": "reto6",
+            "projectName": "Retos_50c17c2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto3",
+            "request": "launch",
+            "mainClass": "reto3",
+            "projectName": "Retos_50c17c2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto5",
+            "request": "launch",
+            "mainClass": "reto5",
+            "projectName": "Retos_50c17c2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto4",
+            "request": "launch",
+            "mainClass": "reto4",
+            "projectName": "Retos_50c17c2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto2",
+            "request": "launch",
+            "mainClass": "reto2",
+            "projectName": "Retos_50c17c2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto1",
+            "request": "launch",
+            "mainClass": "reto1",
+            "projectName": "Retos_50c17c2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto6",
+            "request": "launch",
+            "mainClass": "reto6",
+            "projectName": "Retos_330a6d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto5",
+            "request": "launch",
+            "mainClass": "reto5",
+            "projectName": "Retos_330a6d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto1",
+            "request": "launch",
+            "mainClass": "reto1",
+            "projectName": "Retos_330a6d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto2",
+            "request": "launch",
+            "mainClass": "reto2",
+            "projectName": "Retos_330a6d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto3",
+            "request": "launch",
+            "mainClass": "reto3",
+            "projectName": "Retos_330a6d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto4",
+            "request": "launch",
+            "mainClass": "reto4",
+            "projectName": "Retos_330a6d16"
+        }
+    ]
+}
